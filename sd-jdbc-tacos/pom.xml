@@ -6,11 +6,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>sia</groupId>
-  <artifactId>taco-cloud-sd-jdbc</artifactId>
+  <artifactId>sd-jdbc-tacos</artifactId>
   <version>0.0.3-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>taco-cloud</name>
+  <name>sd-jdbc-tacos</name>
   <description>Taco Cloud Example</description>
 
   <parent>
