@@ -10,7 +10,7 @@
   <version>0.0.3-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>taco-cloud</name>
+  <name>sd-jpa-tacos</name>
   <description>Taco Cloud Example</description>
 
   <parent>
