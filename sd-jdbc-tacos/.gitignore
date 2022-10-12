@@ -5,6 +5,7 @@ system.properties
 .settings
 target/
 build/
+bin/
 
 # Compiled class file
 *.class
