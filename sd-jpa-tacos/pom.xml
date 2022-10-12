@@ -6,7 +6,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>sia</groupId>
-  <artifactId>taco-cloud-sd-jpa</artifactId>
+  <artifactId>sd-jpa-tacos</artifactId>
   <version>0.0.3-SNAPSHOT</version>
   <packaging>jar</packaging>
 
