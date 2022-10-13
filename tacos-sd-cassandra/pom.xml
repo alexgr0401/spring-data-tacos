@@ -6,11 +6,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>sia</groupId>
-  <artifactId>taco-cloud-sd-cassandra</artifactId>
+  <artifactId>sd-cassandra-tacos</artifactId>
   <version>0.0.4-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>taco-cloud</name>
+  <name>sd-cassandra-tacos</name>
   <description>Taco Cloud Example</description>
 
   <parent>
