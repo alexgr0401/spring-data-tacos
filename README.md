@@ -5,4 +5,4 @@ Spring Data:
 - Cassandra
 - MongoDB
 
-Uses the Thymeleaf template and the Spring Boot framework.
+Uses Thymeleaf template and Spring Boot framework.
