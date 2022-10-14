@@ -6,11 +6,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>sia</groupId>
-  <artifactId>taco-cloud-sd-mongodb</artifactId>
+  <artifactId>sd-mongodb-tacos</artifactId>
   <version>0.0.4-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>taco-cloud-mongodb</name>
+  <name>sd-mongodb-tacos</name>
   <description>Taco Cloud Example</description>
 
   <parent>
