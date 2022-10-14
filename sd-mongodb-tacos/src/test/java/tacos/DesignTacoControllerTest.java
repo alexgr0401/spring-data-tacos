@@ -46,7 +46,8 @@ public class DesignTacoControllerTest {
 
 	@BeforeEach
 	public void setup() {
-		ingredients = Arrays.asList(new Ingredient("FLTO", "Flour Tortilla", Type.WRAP),
+		ingredients = Arrays.asList(
+				new Ingredient("FLTO", "Flour Tortilla", Type.WRAP),
 				new Ingredient("COTO", "Corn Tortilla", Type.WRAP), 
 				new Ingredient("GRBF", "Ground Beef", Type.PROTEIN),
 				new Ingredient("CARN", "Carnitas", Type.PROTEIN),
@@ -67,7 +68,8 @@ public class DesignTacoControllerTest {
 		
 		design = new Taco();
 		design.setName("Test Taco");
-		design.setIngredients(Arrays.asList(new Ingredient("FLTO", "Flour Tortilla", Type.WRAP),
+		design.setIngredients(Arrays.asList(
+				new Ingredient("FLTO", "Flour Tortilla", Type.WRAP),
 				new Ingredient("GRBF", "Ground Beef", Type.PROTEIN), 
 				new Ingredient("CHED", "Cheddar", Type.CHEESE)));
 	}
